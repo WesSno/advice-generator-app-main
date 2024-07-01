@@ -62,8 +62,14 @@ h1 {
 }
 
 .pattern-divider {
-  align-self: center;
+  width: 100%;
+  margin: 0 auto;
   margin-bottom: 2.5rem;
+}
+
+.pattern-divider img {
+  width: 100%;
+  max-width: 425px;
 }
 
 .dice-img {
