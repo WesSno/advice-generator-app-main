@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/WesSno/advice-generator-app-main)
+- Live Site URL: [Add live site URL here](https://wes-advice-generator.netlify.app)
 
 ## My process
 
@@ -58,4 +58,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@WesSno](https://www.frontendmentor.io/profile/WesSno)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/WesSno)

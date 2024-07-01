@@ -16,7 +16,7 @@ async function getAdvice() {
     const advice = await res.json();
     console.log(advice);
     adviceId.innerHTML = advice.slip.id;
-    adviceText.textContent = advice.slip.advice;
+    adviceText.textContent = `"${advice.slip.advice}"`;
   } catch (error) {
     console.log("Error:", error);
   }
