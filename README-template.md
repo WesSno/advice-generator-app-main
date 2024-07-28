@@ -18,8 +18,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -36,8 +34,6 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://github.com/WesSno/advice-generator-app-main)
 - Live Site URL: [Add live site URL here](https://wes-advice-generator.netlify.app)
-
-## My process
 
 ### Built with
 
